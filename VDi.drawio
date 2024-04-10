@@ -1,0 +1,177 @@
+<mxfile host="app.diagrams.net" modified="2024-03-02T14:00:29.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="vrgF9bOkXfLupQObaJDl" version="24.0.0" type="device">
+  <diagram name="Trang-1" id="lSQ_sX7AGP3jpJOjAUw4">
+    <mxGraphModel dx="2660" dy="2360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9Wh61U_eyblLMxXxblsG-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q4HCOWCY1I6dzD5gO-H4-2" target="Q4HCOWCY1I6dzD5gO-H4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q4HCOWCY1I6dzD5gO-H4-2" target="9Wh61U_eyblLMxXxblsG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q4HCOWCY1I6dzD5gO-H4-2" target="9Wh61U_eyblLMxXxblsG-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="547" y="-6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q4HCOWCY1I6dzD5gO-H4-2" target="9Wh61U_eyblLMxXxblsG-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q4HCOWCY1I6dzD5gO-H4-2" target="9Wh61U_eyblLMxXxblsG-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4HCOWCY1I6dzD5gO-H4-2" value="RAVADA VDI PROJECT" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="241" y="-163.5" width="195" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Q4HCOWCY1I6dzD5gO-H4-3" target="o8yVVcOoXZwcUUbWvKD0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q4HCOWCY1I6dzD5gO-H4-3" value="Khái niệm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-42" y="-146" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8yVVcOoXZwcUUbWvKD0-1" value="dự án mã nguồn mở tập trung vào cung cấp giải pháp hạ tầng máy tính để bàn ảo (VDI). VDI là một công nghệ cho phép hệ điều hành máy tính để bàn chạy và được quản lý trên các máy ảo được lưu trữ trên một máy chủ trung tâm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-517" y="-146" width="395" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-6" target="9Wh61U_eyblLMxXxblsG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-6" target="9Wh61U_eyblLMxXxblsG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-6" target="9Wh61U_eyblLMxXxblsG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-6" target="9Wh61U_eyblLMxXxblsG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-6" target="9Wh61U_eyblLMxXxblsG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-6" value="Tính năng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="-4" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-10" value="Giao diện dựa trên web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="-46" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-11" value="Quản lý phiên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="69" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-12" value="Phân bổ tài nguyên" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="184" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-13" value="Truy cập từ xa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-279" y="184" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-14" value="Khả năng sẵn có và khả năng mở rộng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-20" target="9Wh61U_eyblLMxXxblsG-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-20" target="9Wh61U_eyblLMxXxblsG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-20" target="9Wh61U_eyblLMxXxblsG-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-20" target="9Wh61U_eyblLMxXxblsG-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-20" value="Ưu điểm&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="561" y="-5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-22" value="Quản lý tập trung: Hệ thống VDI cho phép quản lý tất cả các máy tính để bàn ảo từ một trung tâm điều khiển duy nhất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="165" width="206" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-23" value="Bảo mật tăng cường: VDI giúp tăng cường bảo mật bằng cách giữ dữ liệu trên máy chủ trung tâm thay vì trên các thiết bị cuối" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="163" width="206" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-24" value="Tính nhất quán và dễ dàng sao lưu: VDI đảm bảo tính nhất quán giữa các máy tính để bàn ảo, vì tất cả các máy tính đều được cấu hình và quản lý từ một nguồn duy nhất" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="838" y="145" width="184" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-25" value="Tiết kiệm chi phí: VDI có thể giúp tiết kiệm chi phí so với việc triển khai và duy trì các máy tính để bàn vật lý truyền thống." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="837" y="-168" width="186" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-26" value="Truy cập từ xa: Ravada cung cấp khả năng truy cập từ xa, cho phép người dùng kết nối đến máy tính để bàn ảo của họ từ bất kỳ đâu có kết nối Internet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="838" y="-17.5" width="184" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.001;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-20" target="9Wh61U_eyblLMxXxblsG-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-35" target="9Wh61U_eyblLMxXxblsG-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-35" target="9Wh61U_eyblLMxXxblsG-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-35" target="9Wh61U_eyblLMxXxblsG-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-35" target="9Wh61U_eyblLMxXxblsG-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-35" target="9Wh61U_eyblLMxXxblsG-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-35" value="Nhược điểm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="-482" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-37" value=". Yêu cầu mạng và cơ sở hạ tầng: Hệ thống VDI yêu cầu một mạng ổn định và cơ sở hạ tầng mạnh mẽ để đảm bảo truyền tải dữ liệu và hiệu suất ổn định cho người dùng." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="837" y="-337" width="185" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-39" value="Hiệu suất và độ trễ: Một số ứng dụng đòi hỏi hiệu suất cao hoặc độ trễ thấp có thể gặp khó khăn trong môi trường VDI." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-492" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-40" value="Yêu cầu kỹ thuật: Triển khai và quản lý hệ thống VDI đòi hỏi kiến thức kỹ thuật và kỹ năng đặc biệt." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="838" y="-707.75" width="185" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-41" value="Độ tin cậy và sẵn sàng:Là một hệ thống phụ thuộc vào mạng và máy chủ, VDI có thể gặp khó khăn về độ tin cậy và sẵn sàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528.5" y="-710.5" width="185" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-42" value="Khả năng mở rộng: Mở rộng hệ thống VDI để đáp ứng nhu cầu người dùng mới có thể đòi hỏi đầu tư lớn về phần cứng và hạ tầng mạng." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="-710.5" width="194" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-48" target="9Wh61U_eyblLMxXxblsG-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-48" target="9Wh61U_eyblLMxXxblsG-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-48" target="9Wh61U_eyblLMxXxblsG-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-48" target="9Wh61U_eyblLMxXxblsG-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-48" value="Các công nghệ ảo hóa phổ biến" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-42" y="-482" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-50" target="9Wh61U_eyblLMxXxblsG-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="9Wh61U_eyblLMxXxblsG-50" target="9Wh61U_eyblLMxXxblsG-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-50" value="Hypervisor: Hypervisor là một tầng phần mềm quản lý và phân chia tài nguyên phần cứng cho các máy tính ảo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="-645" width="147" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-51" value="Máy chủ ảo (Virtual Server): Máy chủ ảo được tạo ra trên hypervisor và chứa hệ điều hành và ứng dụng như một máy tính vật lý" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-83.5" y="-710.5" width="203" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-52" value="Giao thức màn hình: Để hiển thị nội dung máy chủ ảo trên thiết bị cuối của người dùng, hệ thống VDI sử dụng giao thức màn hình như Remote Desktop Protocol (RDP) hoặc VMware Blast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="-428" width="306" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-53" value="Quản lý và triển khai: Hệ thống VDI cung cấp các công cụ quản lý và triển khai để tạo, cấu hình và quản lý máy chủ ảo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="-313" width="305" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-54" value="Hypervisor loại 1 (bare-metal): Chạy trực tiếp trên phần cứng máy chủ vật lý, ví dụ như VMware ESXi hoặc Microsoft Hyper-V." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="-707.75" width="149" height="79.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9Wh61U_eyblLMxXxblsG-55" value="Hypervisor loại 2 (hosted): Chạy trên hệ điều hành máy chủ, ví dụ như Oracle VirtualBox hoặc VMware Workstation." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="-588" width="146" height="77" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
